@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="ICONS">
+    <file>Mide.ico</file>
+    <file>NewProjectWizard.ico</file>
+  </qresource>
+</RCC>
